@@ -67,17 +67,17 @@ nav, ul, main {
 }
 
 ul {
-  flex-basis: 55%;
+  flex-basis: 60%;
 }
 
 main section {
-  flex-basis: 50%;
+  flex-basis: 48%;
 }
 
 main section + section {
   display: flex;
   flex-wrap: wrap;
-  flex-basis: 20%;
+  flex-basis: 50%;
 
 }
 
@@ -88,7 +88,7 @@ main section + section {
 
 span {
   font-size: 15px;
-}
+} 
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
